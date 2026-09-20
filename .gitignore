@@ -1,0 +1,4 @@
+node_modules/
+vector-store.json
+dist/
+.env
